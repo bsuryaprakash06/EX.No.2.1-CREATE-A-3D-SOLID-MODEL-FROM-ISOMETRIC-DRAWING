@@ -11,6 +11,10 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE
+```
+Name: B.Surya Prakash
+Reg.No: 212224230281
+```
 
  ### STEP-1:  Start the sketch command
 
@@ -71,6 +75,8 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/06c04ad1-631a-48e3-aa12-d403612f1ba0)
+
 
 ## RESULT: 
  Thus, the 3D model is created from given isometric drawing.
